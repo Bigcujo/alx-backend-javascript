@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev1": "node 0-main.js",
     "dev2": "node 1-main.js",
-    "dev": "npm run dev1 && npm run dev2"  
+    "dev3": "node 11-main.js"
   },
   "keywords": [],
   "author": "",
