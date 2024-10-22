@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node 0-main.js",
-    "dev1": "node 1-main.js"
+    "dev1": "node 1-main.js",
+    "dev2": "node 2-main.js"
   },
   "keywords": [],
   "author": "",
