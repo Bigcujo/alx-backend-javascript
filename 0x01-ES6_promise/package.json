@@ -1,0 +1,14 @@
+{
+  "name": "0x01-ES6_promise",
+  "version": "1.0.0",
+  "description": "this dir will be for Promises",
+  "main": "0-main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node 0-main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
