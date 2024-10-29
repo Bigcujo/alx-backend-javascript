@@ -10,7 +10,8 @@
     "dev1": "node 1-main.js",
     "dev2": "node 2-main.js",
     "dev3": "node 4-main.js",
-    "dev4": "node 5-main.js"
+    "dev4": "node 5-main.js",
+    "dev5": "node 6-main.js"
   },
   "keywords": [],
   "author": "",
