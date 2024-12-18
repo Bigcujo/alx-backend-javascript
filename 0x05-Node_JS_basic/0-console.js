@@ -1,10 +1,15 @@
 /**
- * Displays the  message on the STDOUT.
- * @param {String} msg The message to display.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * Logs a message to the console.
+ * @param {string} message - The message to log.
+ * @returns {void}
  */
-const displayMessage = (msg) => {
-    console.log(msg);
-  };
-  
-  module.exports = displayMessage;
+// Arrow function
+const displayMessage = (message) => console.log(message);
+
+/**
+ * Exports the displayMessage function.
+ * @module displayMessage
+ * @function
+ */
+// Default module export.
+module.exports = displayMessage;
